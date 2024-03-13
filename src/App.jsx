@@ -1,15 +1,19 @@
 import './App.css'
 import Blogs from './components/Blogs/Blogs';
+import Bookmarks from './components/Bookmarks/Bookmarks';
 import Header from './components/Header/Header';
 
 function App() {
- 
+
   return (
     <>
 
       <Header></Header>
-      <Blogs></Blogs>
-
+      {/* <Blogs></Blogs> */}
+      <main className='md:flex max-w-[1170px] mx-auto p-4'>
+        <Blogs></Blogs>
+        <Bookmarks></Bookmarks>
+      </main>
     </>
   )
 }

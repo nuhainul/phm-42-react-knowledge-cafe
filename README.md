@@ -8,6 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # ph module 42 
-  * 42-1 "Knowledge Cafe Project" overview & "**tailwindcss setup**" in Vite/React
-  * 42-2 Create Fake Data For The Blogs And Load Data 
-  * 
+  * ~~42-1 "Knowledge Cafe Project" overview &~~ "**tailwindcss setup**" in Vite/React
+  * ~~42-2 Create Fake Data For The Blogs And Load Data~~
+  * ~~42-3 Set Layout And Make React Responsive
