@@ -10,5 +10,6 @@ Currently, two official plugins are available:
 # ph module 42 
   * ~~42-1 "Knowledge Cafe Project" overview &~~ "**tailwindcss setup**" in Vite/React
   * ~~42-2 Create Fake Data For The Blogs And Load Data~~
-  * ~~42-3 Set Layout And Make React Responsive 
-  * 
+  * ~~42-3 Set Layout And Make React Responsive~~ 
+  * ~~42-4 Display Blog Data And Hashtags~~
+  * ~~42-5 Add Bookmark Button And Lift Up The State

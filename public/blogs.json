@@ -8,9 +8,9 @@
         "posted_date": "2024-02-17",
         "reading_time": 10,
         "hashtags": [
-            "#Lorem",
-            "#Ipsum",
-            "#Dolor"
+            "lorem",
+            "ipsum",
+            "dolor"
         ]
     },
     {
@@ -22,9 +22,9 @@
         "posted_date": "2024-02-16",
         "reading_time": 8,
         "hashtags": [
-            "#Sit",
-            "#Amet",
-            "#Consectetur"
+            "sit",
+            "amet",
+            "consectetur"
         ]
     },
     {
@@ -36,9 +36,9 @@
         "posted_date": "2024-02-15",
         "reading_time": 12,
         "hashtags": [
-            "#Adipiscing",
-            "#Elit",
-            "#Sed"
+            "adipiscing",
+            "elit",
+            "sed"
         ]
     },
     {
@@ -50,9 +50,9 @@
         "posted_date": "2024-02-14",
         "reading_time": 6,
         "hashtags": [
-            "#Eiusmod",
-            "#Tempor",
-            "#Incididunt"
+            "eiusmod",
+            "tempor",
+            "incididunt"
         ]
     },
     {
@@ -64,9 +64,9 @@
         "posted_date": "2024-02-13",
         "reading_time": 15,
         "hashtags": [
-            "#Labore",
-            "#Et",
-            "#Dolore"
+            "labore",
+            "et",
+            "dolore"
         ]
     }
 ]
