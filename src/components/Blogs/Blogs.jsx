@@ -5,10 +5,11 @@ import { useState } from "react";
 
 const Blogs = () => {
     const [blogs, setBlogs] = useState([]);
-    useEffect( () =>{
+
+    useEffect( () => {
         fetch('blogs.json')
         .then(response => response.json())
-        .then(data = console.log(data);)
+        .then(data => console.log(data))
     }, [])
 
     return (
