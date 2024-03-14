@@ -8,8 +8,8 @@ const Blog = ({ blog }) => {
     const { title, cover, author, author_img, posted_date, reading_time, hashtags } = blog;
 
     return (
-        <div>
-            <img src={cover} alt={`cover photo of ${title}`} />
+        <div className="mb-20">
+            <img className="w-full" src={cover} alt={`cover photo of ${title}`} />
 
             <div className="flex justify-between mt-4">
                 <div className="flex">
