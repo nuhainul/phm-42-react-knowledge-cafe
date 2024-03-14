@@ -12,4 +12,5 @@ Currently, two official plugins are available:
   * ~~42-2 Create Fake Data For The Blogs And Load Data~~
   * ~~42-3 Set Layout And Make React Responsive~~ 
   * ~~42-4 Display Blog Data And Hashtags~~
-  * ~~42-5 Add Bookmark Button And Lift Up The State
+  * ~~42-5 Add Bookmark Button And Lift Up The State~~
+  * ~~42-6 Handle Bookmark State And Display Bookmark
