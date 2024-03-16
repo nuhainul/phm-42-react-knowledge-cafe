@@ -15,17 +15,22 @@ function App() {
     setBookmarks(newBookmarks);
   }
 
-  const handleMarkAsRead = time => {
+  // const handleMarkAsRead = time => {
+  const handleMarkAsRead = (id, time) => {
     // console.log('marking as read', time);
     // setReadingTime(readingTime + time);
     const newReadingTime = readingTime + time;
     setReadingTime(newReadingTime);
+
+    // removing the read blog from bookmark 
+    // console.log('remove bookmark from id:', id)
+    const remainingBookmarks = bookmarks.filter(bookmark => bookmark.id !== id); // what is this? 
+    setBookmarks(remainingBookmarks)
   }
 
 
   return (
     <>
-
       <Header></Header>
       {/* <Blogs></Blogs> */}
       <main className='md:flex max-w-6xl mx-auto p-4'>

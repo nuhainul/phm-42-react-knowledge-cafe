@@ -15,4 +15,4 @@ Currently, two official plugins are available:
   * ~~42-5 Add Bookmark Button And Lift Up The State~~
   * ~~42-6 Handle Bookmark State And Display Bookmark~~
   * ~~42-7 Add Time When Marked As Read~~
-  * ~~
+  * ~~42-8 Remove Bookmark After Read And Deploy To Surge
